@@ -1,0 +1,12 @@
+.boxbot{
+  margin-bottom: 40px;
+}
+#sel li{
+  list-style: none;
+}
+#sel li h4{
+  font-weight: bold;
+}
+.boxlist .list-group-item {
+  background-color: #eee;
+}
